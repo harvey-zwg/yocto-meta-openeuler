@@ -9,6 +9,7 @@ openEuler Embedded在内核版本、软件包版本等代码层面会与openEule
 在于针对嵌入场景的内核配置、软件包的组合与配置、代码特性补丁的不同。
 
 本手册包含了openEuler Embedded如何使用、如何构建，如何开发的相关内容。
+Lumache has its documentation hosted on Read the Docs.
 
 
 章节
